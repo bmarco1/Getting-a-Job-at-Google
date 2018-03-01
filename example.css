@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Verdana, sans-serif;}
+h1, h2, h3 {color: b; width: 800px;}
+ body {color: skyblue; background-color: grey;}
+h1, h2, h3 {font-family: Georgia, Times, serif;
+font-size: 250%;
+text-shadow: 2px 2px 3px black;
+padding-bottom: 10px;
+}
+
+
+div {
+  height: 1400px;
+  width: 1000px;
+  background-color: black;}
+
+
+p {width: 800px;}

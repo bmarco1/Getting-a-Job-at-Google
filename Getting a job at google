@@ -1,0 +1,149 @@
+<html>
+<body>
+
+<head>
+  <title>Project Time!</title>
+  <link href="C:\Users\bmarco1\Desktop\Test\example.css" type="text/css" rel="stylesheet"/>
+
+
+</head>
+
+
+
+<h1><b>How To Get A Job At Google!</b></h1>
+<p> I created this webpage using a fantastic front end development software called <i><b>Atom</b></i>. This personal project of mine started when I was learning statistical programming with <i><b>R</b></i>, and I decided that working on two projects simultaneoulsy would be a fun challenge.</p>
+
+
+<h2><b>Location! Location! Location!</b></h2>
+<ul>The graph below illustrates the analysis of 1250 observations of Google's job opportunities data. The selected 12 locations on this graph yielded more than 25 job opening each! In total, there were 92 seperate locations with job postings! It is clear that the vast majority of current job opportunities are locate in Mountain View, California with just over 15% of available positions
+  California in total yielded 449 of the total 1250 available position, that's over 35% of the positions!. </ul>
+<figure>
+  <img src="C:\Users\bmarco1\Desktop\Test\Rplot.png" alt="Where To Live">
+</figure>
+
+<h2><b>What's Your Career Path?</b></h2>
+<ul> This analysis shows which job categories are hot right now. There were over 800 different job titles! This analysis shows which job titles appeared within the observations most frequently and which Category of jobs they belong to. User Experience & Design is offering many opportunities for both working professionals, and interns!!
+Just be sure to read over the Job Descriptions to understand the difference between User Experience Design, and User Experience Research!  </ul>
+<figure>
+  <img src="C:\Users\bmarco1\Desktop\Test\Rplot02.png" alt="What To Study">
+</figure>
+
+
+<h2><b>Student Prospects</b></h2>
+<ul> Google offers many internship opportunities for studets looking to expand their career before graduation. The top 4 Categories include: Finance, Software Engineering, Business Strategy, and Administrative. From New york, to Bangkok, and everywhere in-betweem there are opportunities just waiting to be explored!</ul>
+<figure>
+  <img src="C:\Users\bmarco1\Desktop\Test\Rplot01.png" alt="Whar To Study">
+</figure>
+
+
+
+
+<h3><b>Who am I?</b></h3>
+<div><h4><b>Education</b></h4>
+  <p><ul>
+ <b>Loyola University Maryland (Baltimore, Maryland)</b>
+ <ul><li>Masters of Science, Psychology with a focus on Statistics and Organizational Development
+ 3.95 GPA, Graduated August, 2017
+ Member of Psi Chi, International Honor Society on Psychology (September 2014-Present)
+ Member of the American Counseling Association (March 2016-Present)</li></ul>
+
+ <ul><li><b>Worcester State University (Worcester, Massachusetts)</b></li>
+ Bachelors of Science, Psychology with a focus on Statistics and Organizational Development
+ GPA 3.9, Graduated May, 2015</li></ul>
+</ul>
+<div><b>Work/Internship Experience</b>
+<ul>
+<li><b>Johns Hopkins Medicine (Dec 2017 – Present), Performance Improvement Analyst</b></li>
+<ul> <li>Maintain, update, and create daily, weekly, monthly, and historical reports of call center metrics and
+hospital key performance indicators (KPIs). These reports were focused on call center agent metrics
+including, but not limited to: average speed of answer, total staffed time, full time employee hours, and the
+number of outbound calls.</li>
+<li>A number of these reports are generated automatically through Visual Basic for Application macros, and
+my role involved updating and troubleshooting report errors on a daily basis.
+-Tableau is used to pull operation metrics from both Avaya phone systems, and EPIC software. In doing
+this, we are able to analyze 22 departments of medicine in a single centralized location. The key
+performance indicators that we examined included but are not limited to: utilization rates, cancellation
+rates, percentage of international appointments, and hours logged. Survey information is also gathered to
+measure overall patient satisfaction rates in regards to access to care, median lag days, and visit
+satisfaction.</li>
+<li>I have been working on a number of individual projects, one being a space management overhaul.
+The goal of this project was to create a template of our office area and determine what space is/is not
+accounted for. This space contains agents for 22 departments of medicine, several managers, and multiple
+Directors. With the completion of this project, we are more capable of determining what resources
+we have, what can be changed, and what resources are not necessary for our overall success.
+Another ongoing project of mine is working to create SharePoint sites for every department. These sites
+would allow agents, managers, administrators, and schedulers within each department to better organize
+and store necessary information to carry out daily tasks with great efficiency. This project does not only
+include creating the sites, but maintaining it, creating Standard Operating Procedures, and training
+agents/supervisors/managers on site usage.</li>
+</ul>
+
+
+<li><b>Arundel Lodge, Inc. (May 2016 – Dec 2016), Intake Counselor</b></li>
+<ul><li>Performed clinical intake interviews in which client information was gathered in relation to medical
+history, substance use history, family history, and reasons for seeking treatment. Clients would then be
+scheduled with the appropriate clinician based on their individual needs</li>
+<li>Ran Intensive Outpatient Treatment Groups, and provided psychoeducation to a diverse client population</li>
+</ul>
+<li><b>Massachusetts College of Liberal Arts (Sept 2014 – Dec 2014), Research Assistant</b></li>
+<ul><li>Collaborated with Williams College Counseling Center to determine ways in which we can improve work
+employee performance and client satisfaction.
+-Throughout this my team and I gained valuable experience with recruitment, surveys, data collection,
+theme identification, report writing, data presentation, research team fundamentals, and interviewing
+techniques.</li></ul>
+</ul>
+<b>Research Experience<b/>
+  <ul>
+
+ <li><i>Baglione, J., Casey, M., Galipeau, B., Lee, E., Marco, B., and Wood, B. T. (2014). College Therapist
+Experiences of Shortened Therapy Sessions. Poster session presented at the 28 th National Conference
+on Undergraduate Research (NCUR).</li>
+ <li>Lee, E., Baglione, J., Casey, M., Galipeau, B., Marco, B., and Wood, B. T. (2014). College Therapist
+Experiences of Shortened Therapy Sessions. Poster session presented at the Twelfth Annual MCLA
+Undergraduate Research Conference.</li>
+ <li>Casey, M., Baglione, J., Galipeau, B., Lee, E., Marco, B., and Wood, B. T. (2014). College Therapist
+Experiences of Shortened Therapy Sessions. Poster session presented at the UMASS Commonwealth
+Honors Undergraduate Research Conference.</i></li>
+</ul>
+
+<b>Survey and Software Experience</b>
+<ul>
+<li>Experienced (10 years) with Microsoft Excel, Word, PowerPoint, OneNote, Access
+<ul><li>Well trained in Excel data usage independently, and in combination with SPSS, SQL, Tableau
+and SAS. Maintained VBA macros, and create PivotTables working for Johns Hopkins Medicine.</li></ul>
+<li>Expert (1 year) with Microsoft SharePoint
+<ul><li>In the process of creating SharePoint sites for 22 departments of medicine while working for
+Johns Hopkins Medicine. This project includes training employees and maintaining all site features.</li></ul>
+<li>Expert (4 years) in SPSS, R, and SQL programming
+<ul><li>Completion of four courses focused on SPSS and Statistical Analysis. SPSS usage
+incorporated but, not limited to: Post-Hoc Analysis, Sampling Distributions, Probability scoring,
+Z-score analysis, and ANOVA testing.</li></ul>
+<li>R has become my preferred software for analyzing and presenting upon large data sets. I have
+teaching myself R for close to 2 years now, and I’m always learning more. I consider myself to be
+efficient in ggplot2, dplyr, tidyr, and a number of other packages.</li>
+<li>SQL has been used with Microsoft Access to pull metrics from EPIC software while working for
+Johns Hopkins Medicine.</li>
+<li>Highly Efficient with Tableau and Google Analytics (1 year)</li>
+<li>Typically used with Excel, and/or SQL to organize large data sets.</li>
+<li>Familiar with Qualtrics, SurveyMonkey, and Survey123.</li>
+<li>Understanding of Survey principles, creation, application, and recruitment.</li>
+<li>Beginner level understanding/skills in JavaScript, and Python (Self-Taught).</li>
+<li>I continue to learn and practice programming languages as a hobby, but I'm looking to expand my career!.</li>
+</ul>
+<b>Leadership</b>
+<ul>
+<li>New England Invasion Paintball Team (2008-2017)</li>
+<li>Division 2 Team, Compete Nationally</li>
+<li>S.T.I.C.S. (Student Teacher in Class Support) (2012-2013)</li>
+<ul><li>Tutored 1 st graders at Sullivan Elementary School. North Adams, MA</li></ul>
+<li>Berkshire Towers Executive Board Vice President (2013)</li>
+<ul><li>Planned events for residents of the dorm, maintained a monthly budget, supervised functions of the
+administrative board</li></ul>
+<li>Relay for Life, New Bedford (2013-2014)</li>
+<ul><li>Assisted running a booth that helped raise money for cancer research. New Bedford, MA</li></ul></p>
+
+</div>
+</div>
+
+</body>
+</html>
